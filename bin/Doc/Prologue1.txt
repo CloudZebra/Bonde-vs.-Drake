@@ -1,0 +1,9 @@
+Välkommen till Bonde vs. Drake!
+ <br>Spelets tre knappar nedan, A, B och C används för att fortsätta berättelsen och att slåss med.
+ <br>Under Combat så används A för light attack
+  B för heavy attack
+ <br>Och C för att hela till fullt liv. 
+ <br>Men var försiktig, du har bara 5 heals, genom hela spelet!
+ <br><br>Pröva att trycka på en av knapparna för att fortsätta berättelsen nu. 
+ <br>Ha så kul!
+ <br>-Tobias, Lukas och Robin.
